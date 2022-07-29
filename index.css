@@ -1,0 +1,21 @@
+.navbar{
+    color: white;
+    height: 70px;
+}
+
+.submit{
+    margin-top: 10px;
+}
+
+.kitty{
+    margin-left: 100px;
+    width: 400px;
+}
+
+.kittyb{
+    background-color: rgb(215, 232, 233);
+}
+
+.sub{
+    margin-top: 10px;
+}
